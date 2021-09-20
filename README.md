@@ -1,4 +1,4 @@
-<a href="#"><img width="500px" height="220" src="https://cdn.discordapp.com/attachments/854889235088670741/889327917249748992/banner.gif" height="100px"/></a>
+<a href="#"><img width="auto" height="auto" src="https://cdn.discordapp.com/attachments/854889235088670741/889327917249748992/banner.gif" height="auto"/></a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, Hello, I'm DevHatry4</h1>
 <h3 align="center"><b>I'm a Student, Still Exploring Developing, and I'am from Philippines.</h3>
