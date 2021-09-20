@@ -10,7 +10,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 
-- 🔭<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭<a href="url"><img src="https://c.tenor.com/cKgOapMuyWcAAAAC/coding-developer-code.gif" height="auto" width="200" style="border-radius:50%"></a I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
