@@ -41,17 +41,27 @@
 ## <b>My Github Stats <img src="https://cdn.discordapp.com/attachments/854889235088670741/889058127360692235/stats.png" width="30px">
 
 <p align="center">
-    <a href="https://github.com/hatry4/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hatry4's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hatry4&theme=black-ice&hide_border=true&stroke=0000&background=202020"/>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-    <a href="https://github.com/hatry4/github-readme-stats"><img alt="hatry4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hatry4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=202020" /></a>
-<a href="https://github.com/hatry4/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hatry4&bg_color=202020&color=5BEC9D&line=5BEC9D&point=FFFFFF&hide_border=true" /></a>
-<a href="https://github.com/hatry4/github-readme-stats"><img alt="Devhatry4's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=202020" /></a>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/hatry4/github-readme-stats"><img alt="Hatry4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hatry4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/hatry4/github-readme-stats"><img alt="hatry4's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>
+
 
 <br/>
 <br/>
 
+<a href="https://github.com/hatry4/github-readme-activity-graph"><img alt="hatry4's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hatry4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 ## Connect with me:
 <p align="left">
 
