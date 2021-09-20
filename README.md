@@ -1,6 +1,6 @@
-<a href="#"><img width="auto" height="auto" src="https://cdn.discordapp.com/attachments/854889235088670741/889327917249748992/banner.gif" height="auto"/></a>
+<a href="#"><img width="auto" height="auto" src="https://cdn.discordapp.com/attachments/854889235088670741/889363286036979712/34aba28b689311419b03093965eb73a0.gif" height="auto"/></a>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, Hello, I'm DevHatry4</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hi, Hello, I'm DevHatry4</h1>
 <h3 align="center"><b>I'm a Student, Still Exploring Developing, and I'am from Philippines.</h3>
 
 
@@ -8,11 +8,11 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
+## <img src="https://media0.giphy.com/media/8YQiA97lXP41kZJRxQ/giphy.gif?cid=6c09b952nnxcgfxb8yp66cu9lx6pw6szb83f6kn1ocv145wt&rid=giphy.gif&ct=s" width="40px"> About Me
 
-- 🔭<a href="url"><img src="https://c.tenor.com/cKgOapMuyWcAAAAC/coding-developer-code.gif" height="auto" width="200" style="border-radius:50%"></a I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔧 I’m currently working on **[Haruki](https://github.com/@Charles)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Html, Css and Java Script**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -22,38 +22,37 @@
 
 - ⚡ Fun fact **I play games and go to the School Always**
 
-## 🚀 Languages and Tools:
+##  <b>Languages:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
 </p>
 <br/>
 
+## 🖥️ <b>Tools:
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+
+<br/>
 
 ## <b>My Github Stats <img src="https://cdn.discordapp.com/attachments/854889235088670741/889058127360692235/stats.png" width="30px">
 
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+[![hatry4's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatry4&show_icons=true&border_radius=50&title_color=42DE8D&icon_color=42DE8D&border_color=202020&theme=dark)](https://github.com/hatry4/github-readme-stats)
 
-## 📊 My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
   <br/>
-    <a href="https://github.com/hatry4/github-readme-stats"><img alt="Hatry4's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hatry4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/hatry4/github-readme-stats"><img alt="hatry4's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>
 
+[![hatry4's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hatry4&hide_border=true&border_radius=50)](https://git.io/streak-stats)
 
 <br/>
 <br/>
