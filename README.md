@@ -58,10 +58,10 @@
 [![hatry4's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatry4&show_icons=true&border_radius=20&title_color=42DE8D&icon_color=42DE8D&border_color=202020&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hatry4&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hatry4&hide_border=true&border_color=202020)](https://git.io/streak-stats)
 <br/>
 
-[![hatry4's github activity graph](https://activity-graph.herokuapp.com/graph?username=hatry4&bg_color=ffffff&point=000&color=42DE8D&line=42DE8D&border_radius=20)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![hatry4's github activity graph](https://activity-graph.herokuapp.com/graph?username=hatry4&bg_color=ffffff&point=000&color=42DE8D&line=42DE8D&border_radius=20&border_color=202020)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
