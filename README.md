@@ -4,7 +4,6 @@
 <h3 align="center"><b>I'm a Student, Still Exploring Developing, and I'am from Philippines.</h3>
 
 
-<br/>
 
 
 
