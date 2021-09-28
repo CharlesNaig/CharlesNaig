@@ -53,7 +53,7 @@
 
 ## <img src="https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-stats-online-shopping-wanicon-flat-wanicon.png" width="30px"> <b>My Github Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&layout=compact&langs_count=10&border_color=202020)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&layout=compact&langs_count=10&border_color=202020&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 [![hatry4's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatry4&show_icons=true&border_radius=20&title_color=42DE8D&icon_color=42DE8D&border_color=202020&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
