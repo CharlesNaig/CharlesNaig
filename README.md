@@ -32,7 +32,7 @@
     <a href="https://www.w3.org/standards/webdesign/htmlcss" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width=50/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width=55/> </a> </br>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width=55/> </a>
     <a style="padding-right:8px;" href="https://www.tutorialspoint.com/batch_script/index.htm" target="_blank"> <img src="https://img.icons8.com/pastel-glyph/64/000000/batch-script.png" width=45/> </a>
     <a style="padding-right:8px;" href="https://yaml.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/854889235088670741/892292017105829888/Yaml_logo.png" width=45/> </a>
     <a style="padding-right:8px;" href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width=50/> </a><a style="padding-right:8px;" href="https://ejs.co/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/854889235088670741/892293592171827220/output-onlinejpgtools.png" width=45/> </a>
