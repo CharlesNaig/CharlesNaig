@@ -1,5 +1,5 @@
 
-<a href="www.hatry4.xyz"><img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png"/></a>
+<a href="www.hatry4.xyz"><img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png" display="center"/></a>
 
 <h1 align="center">👋 Hi, I'm Hatry4</h1>
 <h3 align="center">Hi! my name is Charles Marcelo, I was born December 29, 2007, and I am from the Philippines since I'm a teenager I was trying now to learn to develop and design websites. And I’m a Front End Developer, Gamer, and Student Fun fact is I still play games.</h3>
