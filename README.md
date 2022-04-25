@@ -3,11 +3,11 @@
 
 ## <img src="https://img.icons8.com/bubbles/50/000000/about-me-male.png" width="40px"> <b> About Me:
 
-- 🔧 I’m currently working on <img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png" width="30px" height="30px"> **[hatry4.xyz](https://official-hatry4xyz.devhatry4.repl.co/)**
+- 🔧 I’m currently working on **[hatry4.xyz](https://official-hatry4xyz.devhatry4.repl.co/)** <img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png" width="30px" height="30px"> 
 
 - 🌱 I’m currently learning **Front-End Devs Languages**
 
-- 🔎 I’m looking to collaborate on <img src="https://cdn.discordapp.com/emojis/961220119927861249.webp?size=96&quality=lossless"> **[Kryptonite Devs](https://kryptonite.tk)**
+- 🔎 I’m looking to collaborate on **[Kryptonite Devs](https://kryptonite.tk)** <img src="https://cdn.discordapp.com/emojis/961220119927861249.webp?size=96&quality=lossless">
 
 - 🖥️ All of my projects are available at my **[Github](https://github.com/hatry4?tab=repositories)**
 
