@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png" width="48px" height="48px">atry4</h1>
+<h1 align="center">👋 Hi, I'm <img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png" width="30px" height="30px">atry4</h1>
 <h3 align="center">Hi! my name is Charles Marcelo, I was born December 29, 2007, and I am from the Philippines since I'm a teenager I was trying now to learn to develop and design websites. And I’m a Front End Developer, Gamer, and Student Fun fact is I still play games.</h3>
 
 ## <img src="https://img.icons8.com/bubbles/50/000000/about-me-male.png" width="40px"> <b> About Me:
