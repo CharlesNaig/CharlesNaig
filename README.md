@@ -1,26 +1,22 @@
-<a href="#"><img width="auto" height="auto" src="https://cdn.discordapp.com/attachments/854889235088670741/889363286036979712/34aba28b689311419b03093965eb73a0.gif" height="auto"/></a>
 
-<h1 align="center"><img src="https://img.icons8.com/bubbles/50/000000/so-so.png" width="50px"> Hi, Hello, I'm DevHatry4</h1>
-<h3 align="center"><b>I'm a Student, Still Exploring Developing, and I'am from Philippines.</h3>
+<a href="www.hatry4.xyz"><img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png"/></a>
 
-
-
-
-    
+<h1 align="center">👋 Hi, I'm Hatry4</h1>
+<h3 align="center">Hi! my name is Charles Marcelo, I was born December 29, 2007, and I am from the Philippines since I'm a teenager I was trying now to learn to develop and design websites. And I’m a Front End Developer, Gamer, and Student Fun fact is I still play games.</h3>
 
 ## <img src="https://img.icons8.com/bubbles/50/000000/about-me-male.png" width="40px"> <b> About Me:
 
-- 🔧 I’m currently working on **[Haruki](https://replit.com/@CharlesMarcelo/Haruki-Main)**
+- 🔧 I’m currently working on **[hatry4.xyz](https://official-hatry4xyz.devhatry4.repl.co/)**
 
-- 🌱 I’m currently learning **Html, Css and Java Script**
+- 🌱 I’m currently learning **Front-End Devs Languages**
 
-- 🔎 I’m looking to collaborate on **[Tagpuan PH Website](https://github.com/hatry4/TagpuanPH.github.io)**
+- 🔎 I’m looking to collaborate on **[Kryptonite Devs](https://kryptonite.tk)**
 
-- 🖥️ All of my projects are available at **[My Github](https://github.com/hatry4)**
+- 🖥️ All of my projects are available at my **[Github](https://github.com/hatry4?tab=repositories)**
 
-- 📧 How to reach me **cm122927@gmail.com**
+- 📧 How to reach me **cm122927@gmail.com** or **hatry4@gmail.com**
 
-- 🌳 Fun fact **I play games and go to the School Always**
+- 🌳 Check out my official website at **[hatry4.xyz](https://www.hatry4.xyz)**
 
 ##  <img src="https://img.icons8.com/office/80/000000/code.png" width=35> <b>Languages:
 
