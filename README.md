@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm <img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png" width="30px" height="30px">atry4</h1>
+<h1 align="center">👋 Hi, I'm hatry4</h1>
 <h3 align="center">Hi! my name is Charles Marcelo, I was born December 29, 2007, and I am from the Philippines since I'm a teenager I was trying now to learn to develop and design websites. And I’m a Front End Developer, Gamer, and Student Fun fact is I still play games.</h3>
 
 ## <img src="https://img.icons8.com/bubbles/50/000000/about-me-male.png" width="40px"> <b> About Me:
 
-- 🔧 I’m currently working on **[hatry4.xyz](https://official-hatry4xyz.devhatry4.repl.co/)**
+- 🔧 I’m currently working on <img src="https://official-hatry4xyz.devhatry4.repl.co/assets/images/logo/hatry4.png" width="30px" height="30px"> **[hatry4.xyz](https://official-hatry4xyz.devhatry4.repl.co/)**
 
 - 🌱 I’m currently learning **Front-End Devs Languages**
 
-- 🔎 I’m looking to collaborate on **[Kryptonite Devs](https://kryptonite.tk)**
+- 🔎 I’m looking to collaborate on <img src="https://cdn.discordapp.com/emojis/961220119927861249.webp?size=96&quality=lossless"> **[Kryptonite Devs](https://kryptonite.tk)**
 
 - 🖥️ All of my projects are available at my **[Github](https://github.com/hatry4?tab=repositories)**
 
