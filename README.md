@@ -49,3 +49,6 @@
 <br/>
 
 [![hatry4's github activity graph](https://activity-graph.herokuapp.com/graph?username=hatry4&bg_color=ffffff&point=000&color=42DE8D&line=42DE8D&border_radius=20&border_color=202020)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+Obviously, it is called **README**, so you are **reading** me now.
+![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
