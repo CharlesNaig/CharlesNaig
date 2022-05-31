@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm hatry4</h1>
 <h3 align="center">Konichiwa! I'm Charles Marcelo, I was born December 29, 2007, and I am from the Philippines since I'm a teenager I was trying now to learn to developing and design websites. And I’m a Front End Developer, Gamer, and Student.</h3>
 
-![](https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=75ffb1&label=🌿+Profile+views)
+<div align="center"><a href="/"><img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=75ffb1&label=🌿+Vistors"></a></div>
 
 ![Metrics](https://metrics.lecoq.io/hatry4?template=classic&isocalendar=1&followup=1&people=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FManila)
 
@@ -21,6 +21,10 @@
 - 📫 How you can reach me **cm122927@gmail.com**
 
 - 🧬 Fun fact **I still playing games.**
+
+- 🍰 Add me at Discord
+
+<div align="center"><a href="https://discord.com/users/573709909594734603" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/573709909594734603?theme=dark&bg=18191C&animated=false&hideDiscrim=false&borderRadius=5px&idleMessage=🌿%20Maybe%20he%20is%20just%20afk.."> </a></div>
 
 ## 🧉 Connect with me 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cm122927@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/ksskks) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/charlesmarcelo.hatryy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/charlesynnaig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charlesqt-hatry4) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/hatry4qt) [![Replit](https://img.shields.io/badge/Replit-000a1a.svg?style=for-the-badge&logo=replit&logoColor=white)](htttps://replit.com/@Devhatr4) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](htttps://dev.to/hatr4) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](htttps://codepen.io/hatr4) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/hatry4) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18096589) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@hatry4qt) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/chatry4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/hatry4qt) [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://GitLab.com/hatry4) 
