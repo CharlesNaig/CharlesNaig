@@ -4,9 +4,9 @@
 
 <div align="center"><a href="/"><img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=75ffb1&label=🌿+Vistors"></a></div>
 
-![Metrics](https://metrics.lecoq.io/hatry4?template=classic&isocalendar=1&followup=1&people=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FManila)
+<div align="center"><a href="/" alt="metrics"><img src="https://metrics.lecoq.io/hatry4?template=classic&isocalendar=1&followup=1&people=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FManila"></a></div>
 
-<img align="right" alt="View while coding.. :)" width="400" src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" >
+<img align="right" alt="..." width="400" src="https://i.pinimg.com/564x/d3/93/a1/d393a13e827ff60e851ba8464bcbbcc1.jpg" >
 
 - 📟 I’m currently updating [hatry4.xyz](https://official-hatry4xyz.devhatry4.repl.co/)
 
