@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm hatry4</h1>
 <h3 align="center">Konichiwa! I'm Charles Marcelo, I was born December 29, 2007, and I am from the Philippines since I'm a teenager I was trying now to learn to developing and design websites. And I’m a Front End Developer, Gamer, and Student.</h3>
 
-<div align="center"><a href="/"><img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=75ffb1&label=🌿+Vistors"></a></div>
+<div align="center"><a href="/"><img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=448567&label=🌿+Vistors"></a></div>
 
 <div align="center"><a href="/" alt="metrics"><img src="https://metrics.lecoq.io/hatry4?template=classic&isocalendar=1&followup=1&people=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FManila"></a></div>
 
