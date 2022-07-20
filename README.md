@@ -36,7 +36,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Devhatry4) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hatry4) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/hatry4) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Devhatry4) 
 
 ## 🍹 Hatry4's Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&layout=compact&langs_count=10&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![hatry4's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatry4&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hatry4&hide_border=true&border_radius=5&theme=gotham)](https://git.io/streak-stats)
 [![hatry4's github activity graph](https://activity-graph.herokuapp.com/graph?username=hatry4&hide_border=true&border_radius=5&theme=gotham)](https://github.com/Ashutosh00710/github-readme-activity-graph)
