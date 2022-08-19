@@ -8,15 +8,13 @@
 
 <img align="right" alt="..." width="400" src="https://i.pinimg.com/564x/d3/93/a1/d393a13e827ff60e851ba8464bcbbcc1.jpg" >
 
-- 📟 I’m currently updating [hatry4.xyz](https://official-hatry4xyz.devhatry4.repl.co/)
+- 📟 I’m currently updating [Haruki](https://discord.com/api/oauth2/authorize?client_id=848911707761410053&permissions=1644971949553&scope=applications.commands%20bot)
 
-- 🧮 I’m currently learning **Front-end developer languages**
+- 🧮 I’m currently learning **Front-End/Back-End developer languages**
 
-- 💻 I’m working on [Kryptonite](https://kryptonite.tk)
+- 💻 Join to our team at [Kryptonite](https://kryptonite.tk)
 
 - 🧸 All of my projects are available at [https://www.hatry4.xyz](https://www.hatry4.xyz)
-
-- 💬 Ask me about **Web Developing**
 
 - 📫 How you can reach me **cm122927@gmail.com**
 
