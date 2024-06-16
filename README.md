@@ -10,17 +10,11 @@
 
 - 📟 I’m currently updating [Haruki](https://discord.com/api/oauth2/authorize?client_id=848911707761410053&permissions=1644971949553&scope=applications.commands%20bot)
 
-- 🧮 I’m currently learning **Front-End/Back-End developer languages**
-
-- 💻 Join to our team at [Kryptonite](https://kryptonite.tk)
-
-- 🧸 All of my projects are available at [https://www.hatry4.xyz](https://www.hatry4.xyz)
+- 🧮 Still learning **Front-End/Back-End developer languages**
 
 - 📫 How you can reach me **cm122927@gmail.com**
 
-- 🧬 Fun fact **I still playing games.**
-
-- 🍰 Add me at Discord
+- 🧬 **Accepting Website Project Starting at 15$/850₱.** Contact me at Discord or Facebook for your Customize Website!
 
 <div align="center"><a href="https://discord.com/users/573709909594734603" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/573709909594734603?theme=dark&bg=18191C&animated=false&hideDiscrim=false&borderRadius=5px&idleMessage=🌿%20Maybe%20he%20is%20just%20afk.."> </a></div>
 
