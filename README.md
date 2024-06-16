@@ -6,13 +6,12 @@
 
 <div align="center"><a href="/" alt="metrics"><img src="https://metrics.lecoq.io/hatry4?template=classic&isocalendar=1&followup=1&people=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FManila"></a></div>
 
-<img align="right" alt="..." width="400" src="https://i.pinimg.com/564x/d3/93/a1/d393a13e827ff60e851ba8464bcbbcc1.jpg" >
 
 - 📟 I’m currently updating [Haruki](https://discord.com/api/oauth2/authorize?client_id=848911707761410053&permissions=1644971949553&scope=applications.commands%20bot)
 
 - 🧮 Still learning **Front-End/Back-End developer languages**
 
-- 📫 How you can reach me **cm122927@gmail.com**
+- 📫 My Gmail **cm122927@gmail.com** Contact for more details 
 
 - 🧬 **Accepting Website Project Starting at 15$/850₱.** Contact me at Discord or Facebook for your Customize Website!
 
