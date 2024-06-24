@@ -2,18 +2,13 @@
 <h1 align="center">Hi, I'm hatry4/Naig</h1>
 <h3 align="center">Konichiwa! I'm Charles Marcelo, I was born December 29, 2007, and I am from the Philippines since I'm a teenager I was trying now to learn to developing and design websites. And I’m a Front End Developer, Gamer, and Student.</h3>
 
-<div align="center"><a href="/"><img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=448567&label=🌿+Vistors"></a></div>
-
-<div align="center"><a href="/" alt="metrics"><img src="https://metrics.lecoq.io/hatry4?template=classic&isocalendar=1&followup=1&people=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FManila"></a></div>
-
-
-- 📟 I’m currently updating [Haruki](https://discord.com/api/oauth2/authorize?client_id=848911707761410053&permissions=1644971949553&scope=applications.commands%20bot)
-
-- 🧮 Still learning **Front-End/Back-End developer languages**
+- 🧮 Still learning **Front-End/Back-End developer languages** I'm Begginer/Intermediate.
 
 - 📫 My Gmail **cm122927@gmail.com** Contact for more details 
 
-- 🧬 **Accepting Website Project Starting at 15$/850₱.** Contact me at Discord or Facebook for your Customize Personal Website!
+- 🧬 **Accepting Website Project Starting at 15-20$/850-1,100₱.** Contact me at Discord, Facebook or to my <a href="cm122927@gmail.com">Email</a> for your Personal Website!
+
+<div align="center"><a href="/"><img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=448567&label=🌿+Vistors"></a></div>
 
 <div align="center"><a href="https://discord.com/users/573709909594734603" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/573709909594734603?theme=dark&bg=18191C&animated=false&hideDiscrim=false&borderRadius=5px&idleMessage=🌿%20Maybe%20he%20is%20just%20afk.."> </a></div>
 
@@ -30,7 +25,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![hatry4's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatry4&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hatry4&hide_border=true&border_radius=5&theme=gotham)](https://git.io/streak-stats)
-[![hatry4's github activity graph](https://activity-graph.herokuapp.com/graph?username=hatry4&hide_border=true&border_radius=5&theme=gotham)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
   <!-- Created by hatry4 -->
   
