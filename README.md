@@ -24,7 +24,7 @@
 ## 🍹 Hatry4's Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatry4&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![hatry4's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatry4&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-/*[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hatry4&hide_border=true&border_radius=5&theme=gotham)](https://git.io/streak-stats)*/
+*[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hatry4&hide_border=true&border_radius=5&theme=gotham)](https://git.io/streak-stats)*
 
   <!-- Created by hatry4 -->
   
