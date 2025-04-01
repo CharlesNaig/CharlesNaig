@@ -24,7 +24,7 @@
 ## 🍹 CharlesNaig's Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesNaig&layout=compact&langs_count=8&&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![hatry4's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesNaig&include_all_commits=false&show_icons=true&hide_border=true&border_radius=5&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-*[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CharlesNaig&hide_border=true&border_radius=5&theme=gotham)](https://git.io/streak-stats)*
+[![GitHub Streak](https://streak-stats.demolab.com?user=CharlesNaig&theme=transparent&hide_border=true&exclude_days=Tue%2CThu%2CFri)](https://git.io/streak-stats)
 
   <!-- Created by hatry4 -->
   
