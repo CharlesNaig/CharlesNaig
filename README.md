@@ -1,5 +1,4 @@
 [![Header](./naig.png)](https://naig.dev)
-[![Header](./header.gif)](https://naig.dev)
 
 <h1 align="center"><img src="https://github.com/user-attachments/assets/3356f136-afb1-4b79-9336-f3bc02e85b81" width="30"/> Hi, I'm Charles Marcelo (hatry4/Naig)</h1>
 <h3 align="center"><img src="https://img.icons8.com/color/48/000000/rocket.png" width="20"/> Full-Stack Discord Bot & Web Developer | <img src="https://img.icons8.com/color/48/000000/controller.png" width="20"/> Gamer | <img src="https://github.com/user-attachments/assets/9dd3743f-b07d-4dbf-91eb-f3cbc706798b" width="20"/> FEU Student from the Philippines</h3>
@@ -10,14 +9,14 @@
 
 <br>
 
-## <img src="https://img.icons8.com/color/48/000000/developer.png" width="25"/> About Me
+## <img src="https://github.com/user-attachments/assets/508897b3-d330-4cda-a8fd-2927c0492d59" width="30"/> About Me
 
 Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippines who loves creating digital experiences. Born on December 29, 2007, I've been on an exciting journey learning web development and design.
 
 - <img src="https://img.icons8.com/?size=48&id=0zx0uB1f2GbT&format=png" width="20"/> Currently mastering **Full-Stack Development** (Front-End & Back-End)
 - <img src="https://img.icons8.com/color/48/000000/money-bag.png" width="20"/> **Accepting freelance projects** starting at **<a href=""> $15-35 / ₱900-1,100 </a>**
 - <img src="https://img.icons8.com/color/48/000000/goal.png" width="20"/> Goal: Building innovative web solutions that make a difference
-- <img src="https://img.icons8.com/color/48/000000/controller.png" width="20"/> When I'm not coding, you'll find me gaming or exploring new technologies
+- <img src="https://img.icons8.com/color/48/000000/controller.png" width="20"/> When I'm not coding, you'll find me gaming or exploring new technologies or either chatting with my friends.
 - <img src="https://img.icons8.com/color/48/000000/email.png" width="20"/> Reach out: **cm122927@gmail.com**
 
 <div align="center">
@@ -30,7 +29,7 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44fb435b-3ce1-4299-9bfb-526f1abdff43" width="200" style="border-radius: 50%; border: 3px solid #448567;" alt="My Inspiration">
-  <img src="" width="200" style="border-radius: 50%; border: 3px solid #448567;" alt="My Inspiration">
+  <img src="https://github.com/user-attachments/assets/3e0ebe11-32da-4bd3-b196-948c868abfa1" width="195" height="300" style="border-radius: 50%; border: 3px solid #448567;" alt="My Inspiration">
   <br>
   <sub><i>My Fiance/girlfriend - the inspiration behind my coding journey <img src="https://img.icons8.com/?size=100&id=64452&format=png" width="24"/></i></sub>
 </div>
@@ -39,10 +38,10 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
 
 ### <img src="https://img.icons8.com/color/48/000000/code.png" width="20"/> Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -88,19 +87,19 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hatry4)
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/hatry4)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@hatry4qt)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@thereal_naig)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hatry4qt)
 
 </div>
 
 ## <img src="https://img.icons8.com/color/48/000000/coffee-to-go.png" width="25"/> Support My Work
 
-If you like what I do and want to support my journey, consider buying me a coffee! <img src="https://img.icons8.com/color/48/000000/coffee-bean.png" width="16"/>
+If you like what I do and want to support my journey, consider buying me a coffee! <img src="https://github.com/user-attachments/assets/b35d2997-ae6c-4faa-883e-5af51119e1ab" width="16"/>
 
 <div align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Devhatry4)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hatry4)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/hatry4](https://www.paypal.com/paypalme/CharlesNaig1229))
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Devhatry4)
 
 </div>
@@ -109,6 +108,9 @@ If you like what I do and want to support my journey, consider buying me a coffe
 
 <div align="center">
   <i><img src="https://img.icons8.com/color/48/000000/idea.png" width="16"/> "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
+<div align="center">
+  <i><img src="https://img.icons8.com/color/48/000000/idea.png" width="16"/> "Solve the error, Then Write the code" - Naig</i>
 </div>
 
 <div align="center">
