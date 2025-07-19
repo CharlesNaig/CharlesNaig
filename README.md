@@ -1,4 +1,4 @@
-[![Header](./naig.png)](https://naig.dev)
+[![Header](./naig-v2.png)](https://naig.dev)
 
 <h1 align="center"><img src="https://github.com/user-attachments/assets/3356f136-afb1-4b79-9336-f3bc02e85b81" width="30"/> Hi, I'm Charles Marcelo (hatry4/Naig)</h1>
 <h3 align="center"><img src="https://img.icons8.com/color/48/000000/rocket.png" width="20"/> Full-Stack Discord Bot & Web Developer | <img src="https://img.icons8.com/color/48/000000/controller.png" width="20"/> Gamer | <img src="https://github.com/user-attachments/assets/9dd3743f-b07d-4dbf-91eb-f3cbc706798b" width="20"/> FEU Student from the Philippines</h3>
