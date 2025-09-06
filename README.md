@@ -25,13 +25,105 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
   </a>
 </div>
 
-## <img src="https://img.icons8.com/color/48/000000/heart-with-pulse.png" width="25"/> My Coding Inspiration
+## <img src="https://img.icons8.com/color/48/000000/diploma.png" width="25"/> Certifications & Achievements
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/44fb435b-3ce1-4299-9bfb-526f1abdff43" width="200" style="border-radius: 50%; border: 3px solid #448567;" alt="My Inspiration">
-  <img src="https://github.com/user-attachments/assets/3e0ebe11-32da-4bd3-b196-948c868abfa1" width="195" height="300" style="border-radius: 50%; border: 3px solid #448567;" alt="My Inspiration">
-  <br>
-  <sub><i>My Fiance/girlfriend - the inspiration behind my coding journey <img src="https://img.icons8.com/?size=100&id=64452&format=png" width="24"/></i></sub>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 1</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_1" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 1"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 2</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_2" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 2"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 3</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_3" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 3"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 4</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_4" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 4"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 5</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_5" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 5"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 6</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_6" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 6"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 7</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_7" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 7"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 8</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_8" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 8"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 9</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_9" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 9"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
+        <strong>Certificate Name 10</strong><br>
+        <sub>Issuing Organization</sub><br>
+        <a href="YOUR_CREDENTIAL_LINK_10" target="_blank">
+          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 10"/>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <!-- Empty cell for alignment -->
+      </td>
+      <td align="center" width="200">
+        <!-- Empty cell for alignment -->
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="25"/> Tech Stack
