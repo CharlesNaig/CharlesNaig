@@ -30,97 +30,96 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 1</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_1" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 1"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://feuroosevelt.edu.ph/" target="_blank">
+          <img src="https://github.com/user-attachments/assets/5edd7194-bbd3-435e-8f23-23570de78fd8" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 1"/>
+        </a><br>
+        <strong>Best in Computer System Servicing</strong><br>
+        <sub><i>Far Eastern University Roosvelt (FEUR)</i></sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 2</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_2" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 2"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://www.freecodecamp.org/certification/devnaig/responsive-web-design" target="_blank">
+          <img width="800" height="537" alt="image" src="https://github.com/user-attachments/assets/1fc1a7f3-d5ff-47fb-bc84-49bf95f94485" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 2"/>
+        </a><br>
+        <strong>Responsive Web Design <br></strong><br>
+        <sub><i>Free Code Camp</i></sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 3</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_3" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 3"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://www.freecodecamp.org/certification/devnaig/javascript-algorithms-and-data-structures-v8" target="_blank">
+          <img width="1344" height="903" alt="freeCodeCamp-JavaScriptAlgorithms DataStructures" src="https://github.com/user-attachments/assets/bd54f09d-ca05-4ff4-8e8a-c7faef03ba70" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 3"/>
+        </a><br>
+        <strong>JavaScript Algorithms and Data Structures</strong><br>
+        <sub><i>Free Code Camp</i></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 4</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_4" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 4"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://www.freecodecamp.org/certification/devnaig/front-end-development-libraries" target="_blank">
+          <img width="1343" height="902" alt="freeCodeCamp-FrontEndDevelopmentLibraries" src="https://github.com/user-attachments/assets/c65a4d00-4724-48e4-94f3-3d3b77143958" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 4"/>
+        </a><br>
+        <strong>Front End Development Libraries</strong><br>
+        <sub><i>Free Code Camp</i></sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 5</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_5" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 5"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://www.freecodecamp.org/certification/devnaig/scientific-computing-with-python-v7" target="_blank">
+          <img width="1343" height="902" alt="freeCodeCamp-ScientificComputingwithPython" src="https://github.com/user-attachments/assets/27b3da18-31b3-429b-b4c7-a27f1db15b52" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 5"/>
+        </a><br>
+        <strong>Scientific Computing with Python</strong><br>
+        <sub><i>Free Code Camp</i></sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 6</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_6" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 6"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://www.freecodecamp.org/certification/devnaig/legacy-front-end" target="_blank">
+          <img width="1343" height="903" alt="freeCodeCamp-LegacyFrontEnd" src="https://github.com/user-attachments/assets/fffa1183-6e3e-43ca-8943-4527257080ad" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 6"/>
+        </a><br>
+        <strong>Legacy Front End<br></strong><br>
+        <sub><i>Free Code Camp</i></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 7</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_7" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 7"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://www.freecodecamp.org/certification/devnaig/machine-learning-with-python-v7" target="_blank">
+          <img width="1343" height="902" alt="freeCodeCamp-MachineLearningWithPython" src="https://github.com/user-attachments/assets/0b810d62-9611-4aaf-abab-7dee607c7da0" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 7"/>
+        </a><br>
+        <strong>Machine Learning With Python</strong><br>
+        <sub><i>Free Code Camp</i></sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 8</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_8" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 8"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://simpli-web.app.link/e/Exx14URZuWb" target="_blank">
+          <img width="2342" height="1656" alt="simplilearn-Introduction-of-CSS-1" src="https://github.com/user-attachments/assets/68c487d8-8fe1-4be3-b62c-c10116499344" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 10"/>
+        </a><br>
+        <strong>Introduction of CSS<br></strong><br>
+        <sub><i>Simpli Learn | Skill UP</i></sub>
       </td>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 9</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_9" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 9"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://simpli-web.app.link/e/rWypveSZuWb" target="_blank">
+          <img width="2342" height="1656" alt="simplilearn-Introduction-of-HTML-1" src="https://github.com/user-attachments/assets/86f1fabd-b118-402e-ac2f-92a767d60ee6" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 9"/>
+        </a><br>
+        <strong>Introduction of HTML<br></strong><br>
+        <sub><i>Simpli Learn | Skill UP</i></sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40"/><br>
-        <strong>Certificate Name 10</strong><br>
-        <sub>Issuing Organization</sub><br>
-        <a href="YOUR_CREDENTIAL_LINK_10" target="_blank">
-          <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" alt="Certificate 10"/>
-        </a>
+      <td align="center" width="250">
+        <a href="https://simpli-web.app.link/e/lNgMjsSZuWb" target="_blank">
+          <img width="2342" height="1656" alt="simplilearn-Full-Stack Development-101" src="https://github.com/user-attachments/assets/15761174-dcb1-4bfa-be06-b17f8f60efe9" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 8"/>
+        </a><br>
+        <strong>Full-Stack Development 101 <br></strong><br>
+        <sub><i>Simpli Learn | Skill UP</i></sub>
       </td>
-      <td align="center" width="200">
-        <!-- Empty cell for alignment -->
+      <td align="center" width="250">
+        <a href="https://simpli-web.app.link/e/JiUH57RZuWb" target="_blank">
+          <img width="2342" height="1656" alt="simplilearn-IntroductionToFrontEndDevelopment-1" src="https://github.com/user-attachments/assets/6a94a7af-37fb-4545-bae7-810fba98bf74" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 10"/>
+        </a><br>
+        <strong>Introduction To Front End Development</strong><br>
+        <sub><i>Simpli Learn | Skill UP</i></sub>
       </td>
-      <td align="center" width="200">
-        <!-- Empty cell for alignment -->
+      </td>
+      <td align="center" width="250">
+        <a href="https://www.hackerrank.com/certificates/iframe/b0b85f22cedb" target="_blank">
+          <img src="https://github.com/user-attachments/assets/46276902-255a-42ca-a5a9-6aacbcc00912" width="200" height="150" style="border-radius: 10px; border: 2px solid #448567; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Certificate 10"/>
+        </a><br>
+        <strong>Front End Developer React<br></strong><br>
+        <sub><i>Hacker Rank</i></sub>
       </td>
     </tr>
   </table>
