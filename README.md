@@ -4,7 +4,7 @@
 <h3 align="center"><img src="https://img.icons8.com/color/48/000000/rocket.png" width="20"/> Full-Stack Discord Bot & Web Developer | <img src="https://img.icons8.com/color/48/000000/controller.png" width="20"/> Gamer | <img src="https://github.com/user-attachments/assets/9dd3743f-b07d-4dbf-91eb-f3cbc706798b" width="20"/> FEU Student from the Philippines</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=448567&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hatry4&style=for-the-badge&color=026904&label=Profile+Views" alt="Profile Views">
 </div>
 
 <br>
@@ -154,12 +154,12 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
 ## <img src="https://img.icons8.com/color/48/000000/analytics.png" width="25"/> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesNaig&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesNaig&layout=compact&langs_count=8&theme=gotham&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesNaig&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesNaig&layout=compact&langs_count=8&theme=shadow_green&hide_border=true&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CharlesNaig&theme=gotham&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=CharlesNaig&theme=shadow_green&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ## <img src="https://img.icons8.com/color/48/000000/globe.png" width="25"/> Let's Connect!
