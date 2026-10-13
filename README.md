@@ -13,7 +13,7 @@
 
 ## <img src="https://github.com/user-attachments/assets/508897b3-d330-4cda-a8fd-2927c0492d59" width="30"/> About Me
 
-Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippines who loves creating digital experiences. Born on December 29, 2007, I've been on an exciting journey learning web development and design.
+Hey there! I'm Charles, a passionate **18-year-old developer** from the Philippines who loves creating digital experiences. Born on December 29, 2007, I've been on an exciting journey learning web development and design.
 
 - <img src="https://img.icons8.com/?size=48&id=0zx0uB1f2GbT&format=png" width="20"/> Currently mastering **Full-Stack Development** (Front-End & Back-End)
 - <img src="https://img.icons8.com/color/48/000000/money-bag.png" width="20"/> **Accepting freelance projects** starting at **<a href=""> $40-200 </a>**
@@ -23,7 +23,7 @@ Hey there! I'm Charles, a passionate **17-year-old developer** from the Philippi
 
 <div align="center">
   <a href="https://discord.com/users/573709909594734603" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/573709909594734603?theme=dark&bg=18191C&animated=false&hideDiscrim=false&borderRadius=5px&idleMessage=🌿%20Maybe%20he%20is%20just%20afk..." alt="Discord Status">
+    <img src="https://lanyard-profile-readme.vercel.app/api/573709909594734603?theme=dark&bg=17191C&animated=false&hideDiscrim=false&borderRadius=5px&idleMessage=🌿%20Maybe%20he%20is%20just%20afk..." alt="Discord Status">
   </a>
 </div>
 
